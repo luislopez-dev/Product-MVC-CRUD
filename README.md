@@ -24,7 +24,7 @@ Segundo proyecto del Bootcamp React / Ruby on Rails.
 ## Variables de entorno
 
 1. `DB_NAME:` Nombre de la base de datos
-2. `DB_USERNAME:` Nombre de usuario de la base de datos
+2. `DB_USERNAME:` Nombre del usuario de la base de datos
 3. `DB_PASSWORD:` Contraseña de la base de datos
 4. `DB_HOST:` Host de la base de datos 
 
