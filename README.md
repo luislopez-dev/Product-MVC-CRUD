@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 * [Introducción](#introducción)
-* [Teologías](#tecnologías)
+* [Tecnologías](#tecnologías)
 * [Variables de entorno](#variables-de-entorno)
 * [Ejecución](#ejecución)
 * [Páginas](#páginas)
@@ -14,7 +14,7 @@
 El siguiente proyecto es una aplicación web de productos utilizando la arquitectura Modelo Vista Controlador.
 Segundo proyecto del Bootcamp React / Ruby on Rails. 
 
-## Teologías
+## Tecnologías
 
 * ruby 2.7.0
 * Rails 6.1.5
