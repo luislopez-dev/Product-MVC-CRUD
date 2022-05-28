@@ -18,7 +18,7 @@ Segundo proyecto del Bootcamp React / Ruby on Rails.
 
 * ruby 2.7.0
 * Rails 6.1.5
-* pg 1.1
+* pg (postgres) 1.1
 * Bootstrap 5
 
 ## Variables de entorno
