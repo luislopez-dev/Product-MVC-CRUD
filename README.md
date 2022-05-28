@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 * [Introducción](#introducción)
-* [Teologías](#tecnologias)
+* [Teologías](#tecnologías)
 * [Variables de entorno](#variables-de-entorno)
 * [Ejecución](#ejecución)
 * [Páginas](#páginas)
