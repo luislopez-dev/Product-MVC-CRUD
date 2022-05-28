@@ -38,22 +38,22 @@ Segundo proyecto del Bootcamp React / Ruby on Rails.
 
 ## Páginas:
 
-## URL: `/products`
+#### URL: `/products`
 * Descripción: Lista todos los productos guardados en la base de datos.
 ![alt text](https://i.imgur.com/jBFjhPM.png)
 
-## URL: `/products/id`
+#### URL: `/products/id`
 * Descripción: Muestra información de un producto en específico basándose en su identificador.
 ![alt text](https://i.imgur.com/bDImVRK.png)
 
-## URL: `/products/id/edit`
+#### URL: `/products/id/edit`
 * Descripción: Edita un producto.
 ![alt text](https://i.imgur.com/g9vFJhO.png)
 
-## URL: `/products/new`
+#### URL: `/products/new`
 * Descripción: Crea un producto.
 ![alt text](https://i.imgur.com/qYCoR2f.png)
 
-## Licencia
+#### Licencia
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 * Licencia MIT
