@@ -2,12 +2,12 @@
 
 ## Tabla de contenidos
 
-* [Introducción](#introduccion)
+* [Introducción](#introducción)
 * [Teologías](#tecnologias)
 * [Variables de entorno](#variables-de-entorno)
-* [Ejecución](#ejecucion)
-* [Páginas](#endpoints)
-* [Licencia](#licence)
+* [Ejecución](#ejecución)
+* [Páginas](#páginas)
+* [Licencia](#licencia)
 
 ## Introducción
 
@@ -34,9 +34,28 @@ Segundo proyecto del Bootcamp React / Ruby on Rails.
 2. Diríjase a la carpeta raíz del proyecto e instale las dependencias a través del siguiente comando:  `bundle install`
 3. Cree las variables de entorno en un archivo llamado `application.yml` en la carpeta `Config`
 4. Ejecute las migraciones del proyecto usando el siguiente comando: `Rails db:migrate`
-5. Ejecute la aplicación usando el siguiente comando: `Rails server` o `Rails s`
+5. Ejecute el proyecto usando el siguiente comando: `Rails server` o `Rails s`
 
 ## Páginas:
+
+###URL: `/products`
+* Descripción: Lista todos los productos guardados en la base de datos
+![alt text](https://i.imgur.com/jBFjhPM.png)
+
+###URL: `/products/id`
+* Descripción: Muestra información de un producto en específico basándose en su identificador
+![alt text](https://i.imgur.com/bDImVRK.png)
+
+###URL: `/products/id/edit`
+* Descripción: Edita un producto
+![alt text](https://i.imgur.com/g9vFJhO.png)
+
+###URL: `/products/new`
+* Descripción: Crea un producto
+![alt text](https://i.imgur.com/qYCoR2f.png)
+
+
+
 
 ## Licencia
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
