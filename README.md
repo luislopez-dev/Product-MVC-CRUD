@@ -31,7 +31,7 @@ Segundo proyecto del Bootcamp React / Ruby on Rails.
 ## Ejecución:
 
 1. Clone el repositorio
-2. Diríjase a la carpeta raíz del proyecto e instale las dependencias a través del siguiente comando:  `bundle install`
+2. Diríjase a la carpeta raíz del proyecto e instale las dependencias a través de los siguientes comandos:  `bundle install` y `yarn install`
 3. Cree las variables de entorno en un archivo llamado `application.yml` en la carpeta `Config`
 4. Ejecute las migraciones del proyecto usando el siguiente comando: `Rails db:migrate`
 5. Ejecute el proyecto usando el siguiente comando: `Rails server` o `Rails s`
